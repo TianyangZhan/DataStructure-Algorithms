@@ -1,0 +1,19 @@
+Scores from p5 for Qin,Alan Zhan,Tianyang 
+
+Note that the format for authors.csv is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: aqin@ucdavis.edu tzhan@ucdavis.edu  
+This is a run of p5 with a one minute limit on the time allowed per run.
+I  will extend the time limit tomorrow, and see if any that didn't complete before do then.
+Makefile optimization check: OK
+Testing cities-10000-100000-4.txt: 
+CPU Time: 1.77121 Evacuation hours: 64
+Testing cities-10000-100000-5.txt: 
+CPU Time: 1.03974 Evacuation hours: 56
+Testing cities-10000-100000-6.txt: 
+CPU Time: 1.78436 Evacuation hours: 58
+
+Total CPU Time: Yours 4.59531  Sean's: 5.51 so your score is 18
+Total hours: Yours 178  Sean's: 325 so your score is 18
+Total score: 18 + 18 + 20 = 56
